@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project serves only for studing purposes. Just for demonstrate the components structure of React. 
+You can see it live here: https://react-components.herokuapp.com/
 
 ## Available Scripts
 
